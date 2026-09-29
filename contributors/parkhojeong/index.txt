@@ -1,0 +1,517 @@
+1:"$Sreact.fragment"
+2:I[52619,["2619","static/chunks/2619-04bc32f026a0d946.js","1356","static/chunks/1356-a67303a4b8f6eda2.js","2538","static/chunks/app/contributors/%5Busername%5D/page-b621506314bc22ee.js"],""]
+3:I[81356,["2619","static/chunks/2619-04bc32f026a0d946.js","1356","static/chunks/1356-a67303a4b8f6eda2.js","2538","static/chunks/app/contributors/%5Busername%5D/page-b621506314bc22ee.js"],"Image"]
+4:I[49196,["2619","static/chunks/2619-04bc32f026a0d946.js","1356","static/chunks/1356-a67303a4b8f6eda2.js","7177","static/chunks/app/layout-6bcb8c5142ab06c3.js"],"default"]
+c:I[57150,[],""]
+:HL["/contributions/_next/static/media/1e41be92c43b3255-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/contributions/_next/static/media/7b0b24f36b1a6d0b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/contributions/_next/static/css/3b65cb70c8c7febe.css","style"]
+:HL["/contributions/_next/static/css/7f6bd37aab40623f.css","style"]
+0:{"P":null,"b":"47U5IBTvz5yWkLLGT7JCT","p":"/contributions","c":["","contributors","parkhojeong",""],"i":false,"f":[[["",{"children":["contributors",{"children":[["username","parkhojeong","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/contributions/_next/static/css/3b65cb70c8c7febe.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('theme');var d=t?t==='dark':window.matchMedia('(prefers-color-scheme: dark)').matches;if(d)document.documentElement.classList.add('dark');}catch(e){}})();"}}]}],["$","body",null,{"className":"__className_dc557a __variable_4936b8 bg-background text-on-surface min-h-screen flex flex-col","children":[["$","header",null,{"className":"bg-background/80 backdrop-blur-md border-b border-outline/60 py-3 sticky top-0 z-20","children":["$","div",null,{"className":"container mx-auto px-4 lg:px-6","children":["$","nav",null,{"className":"flex flex-col sm:flex-row justify-between items-center","children":[["$","$L2",null,{"href":"/","className":"font-display text-xl font-semibold tracking-tight mb-3 sm:mb-0 flex items-center","children":[["$","$L3",null,{"src":{"src":"/contributions/_next/static/media/logo.7799f1a0.png","height":256,"width":256,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAMFBMVEX+0376oiT64Kr+3JNMaXH93Jj7v1T914/90Xn/skH43aL/9sr86b3/66f/5Jb8xWLQI6CgAAAACnRSTlOyL/7xAPn7+ust2EYa1QAAAAlwSFlzAAALEwAACxMBAJqcGAAAADtJREFUCJkVyEkSACEIALFmURRQ///bqckx+GYMtiPrRtwlcOab84CVpmoZ1pmZbVD5D4hVd5ngQgTiHzngAYrcc7kQAAAAAElFTkSuQmCC","blurWidth":8,"blurHeight":8},"alt":"OSSCA Chromium 로고","width":32,"height":32,"className":"mr-2"}],"OSSCA Chromium"]}],["$","div",null,{"className":"flex flex-wrap items-center justify-center gap-1 sm:gap-2","children":[[["$","$L2","/docs",{"href":"/docs","className":"rounded-full px-4 py-2 font-medium text-on-surface-variant transition-colors hover:bg-surface-variant hover:text-on-surface","children":"Guide"}],["$","$L2","/patches",{"href":"/patches","className":"rounded-full px-4 py-2 font-medium text-on-surface-variant transition-colors hover:bg-surface-variant hover:text-on-surface","children":"Contributions"}],["$","$L2","/contributors",{"href":"/contributors","className":"rounded-full px-4 py-2 font-medium text-on-surface-variant transition-colors hover:bg-surface-variant hover:text-on-surface","children":"Contributors"}],["$","$L2","/stats",{"href":"/stats","className":"rounded-full px-4 py-2 font-medium text-on-surface-variant transition-colors hover:bg-surface-variant hover:text-on-surface","children":"Stats"}],["$","$L2","/schedule",{"href":"/schedule","className":"rounded-full px-4 py-2 font-medium text-on-surface-variant transition-colors hover:bg-surface-variant hover:text-on-surface","children":"Schedule"}]],["$","$L4",null,{}],["$","a",null,{"href":"https://github.com/OSSCA-chromium/contributions","target":"_blank","rel":"noopener noreferrer","className":"ml-1 inline-flex items-center gap-2 rounded-full bg-primary px-5 py-2 font-medium text-on-primary transition-opacity hover:opacity-90","aria-label":"GitHub 저장소","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":"18","height":"18","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"}]}],"GitHub"]}]]}]]}]}]}],"$L5","$L6","$L7"]}]]}]]}],{"children":["contributors","$L8",{"children":[["username","parkhojeong","d"],"$L9",{"children":["__PAGE__","$La",{},null,false]},null,false]},null,false]},null,false],"$Lb",false]],"m":"$undefined","G":["$c",[]],"s":false,"S":true}
+d:I[9766,[],""]
+e:I[98924,[],""]
+f:I[43195,["2619","static/chunks/2619-04bc32f026a0d946.js","1356","static/chunks/1356-a67303a4b8f6eda2.js","7177","static/chunks/app/layout-6bcb8c5142ab06c3.js"],"default"]
+11:I[24431,[],"OutletBoundary"]
+13:I[15278,[],"AsyncMetadataOutlet"]
+15:I[24431,[],"ViewportBoundary"]
+17:I[24431,[],"MetadataBoundary"]
+18:"$Sreact.suspense"
+5:["$","main",null,{"className":"container mx-auto px-4 py-8 flex-grow","children":["$","$Ld",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Le",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"flex flex-col items-center justify-center py-20","children":[["$","h1",null,{"className":"font-display brand-gradient-text text-6xl font-bold tracking-tight mb-4","children":"404"}],["$","h2",null,{"className":"text-2xl mb-6 text-on-surface","children":"페이지를 찾을 수 없습니다"}],["$","p",null,{"className":"mb-8 text-on-surface-variant","children":"요청하신 페이지가 존재하지 않거나 이동되었을 수 있습니다."}],["$","$L2",null,{"href":"/","className":"rounded-full bg-primary px-6 py-3 font-medium text-on-primary transition-opacity hover:opacity-90","children":"홈으로 돌아가기"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]
+6:["$","footer",null,{"className":"border-t border-outline/60 mt-12","children":[["$","div",null,{"className":"chromium-strip","aria-hidden":"true"}],["$","div",null,{"className":"container mx-auto px-4 pt-8 pb-6","children":["$","div",null,{"className":"flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-on-surface-variant","children":[["$","div",null,{"className":"flex flex-wrap items-center justify-center gap-4","children":[["$","$L2","/docs",{"href":"/docs","className":"transition-colors hover:text-primary","children":"Guide"}],["$","$L2","/patches",{"href":"/patches","className":"transition-colors hover:text-primary","children":"Contributions"}],["$","$L2","/contributors",{"href":"/contributors","className":"transition-colors hover:text-primary","children":"Contributors"}],["$","$L2","/stats",{"href":"/stats","className":"transition-colors hover:text-primary","children":"Stats"}],["$","$L2","/schedule",{"href":"/schedule","className":"transition-colors hover:text-primary","children":"Schedule"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","p",null,{"children":["© ","2025-2026"," OSSCA Chromium. All rights reserved."]}],["$","a",null,{"href":"https://github.com/OSSCA-chromium/contributions","target":"_blank","rel":"noopener noreferrer","className":"text-on-surface-variant hover:text-primary transition-colors","aria-label":"GitHub 저장소","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":"20","height":"20","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"}]}]}]]}]]}]}]]}]
+7:["$","$Lf",null,{}]
+8:["$","$1","c",{"children":[null,["$","$Ld",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Le",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":[null,["$","$Ld",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Le",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+a:["$","$1","c",{"children":["$L10",[["$","link","0",{"rel":"stylesheet","href":"/contributions/_next/static/css/7f6bd37aab40623f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L11",null,{"children":["$L12",["$","$L13",null,{"promise":"$@14"}]]}]]}]
+b:["$","$1","h",{"children":[null,[["$","$L15",null,{"children":"$L16"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L17",null,{"children":["$","div",null,{"hidden":true,"children":["$","$18",null,{"fallback":null,"children":"$L19"}]}]}]]}]
+1a:I[7475,["2619","static/chunks/2619-04bc32f026a0d946.js","1356","static/chunks/1356-a67303a4b8f6eda2.js","2538","static/chunks/app/contributors/%5Busername%5D/page-b621506314bc22ee.js"],"default"]
+1b:Tad1,
+세로쓰기에서 사용자 지정 하이픈 문자열 `+=`가 옆으로 회전하지 않고
+똑바로 표시되는 문제를 수정했습니다.
+
+## 문제 설명
+
+`HarfBuzzShaper`는 8비트 문자열에 대해 문자 방향에 따른 구간 분할을 생략합니다.
+따라서 8비트로 저장된 사용자 지정 하이픈 문자열 `+=`는 세로쓰기의
+`text-orientation: mixed`에서도 올바른 회전이 적용되지 않았습니다.
+
+이로 인해 `css/css-text/hyphens/hyphens-vertical-003.html` WPT가 실패했습니다.
+
+## 해결 내용
+
+- `HyphenResult::Shape()`에서 글꼴 방향이 `kVerticalMixed`인 경우
+  `text_.Ensure16Bit()`를 호출하여 하이픈 문자열을 16비트로 저장하도록 했습니다.
+  이를 통해 shaper가 문자 방향 처리를 적용할 수 있도록 했습니다.
+- 기본 활성화된 `HyphenVerticalOrientationFix` 런타임 플래그를 추가하여,
+  필요할 때 플래그를 비활성화하면 기존 동작으로 돌아갈 수 있도록 했습니다.
+- 가로쓰기, 세로쓰기의 `upright`와 `mixed`를 검증하는 단위 테스트를 추가하고,
+  해당 WPT의 실패 기대값을 제거했습니다.
+
+## 테스트 방법
+
+CL에 기록한 단위 테스트는 다음과 같습니다.
+
+```bash
+blink_unittests --gtest_filter="HyphenResultTest.*"
+```
+
+각 테스트는 플래그를 켠 경우와 끈 경우 모두에서 글리프 회전 값을 확인합니다.
+가로쓰기와 세로쓰기 `upright`의 기존 동작을 유지하면서, 세로쓰기 `mixed`에서는
+플래그가 켜졌을 때 `+=`가 옆으로 회전하는지 검증합니다.
+
+관련 WPT는 `external/wpt/css/css-text/hyphens/hyphens-vertical-003.html`입니다.
+Gerrit의 CQ dry run 통과 후, 2026년 9월 18일 Chromium main에 병합되었습니다.
+
+## 배운 점
+
+- 같은 문자열이라도 내부 저장 방식이 8비트인지 16비트인지에 따라 shaper의
+  처리 경로가 달라질 수 있으므로, 렌더링 문제를 분석할 때 저장 방식도 확인해야 합니다.
+- 수정 대상인 세로쓰기 `mixed`뿐 아니라 가로쓰기와 `upright`도 함께 검증해야
+  다른 쓰기 방향에 회귀 문제가 생기지 않는지 확인할 수 있습니다.
+- 런타임 플래그로 변경 동작을 제어하면 문제가 발생했을 때 기존 동작으로 빠르게
+  되돌릴 수 있으며, 플래그를 켠 경우와 끈 경우 모두 테스트해야 합니다.
+
+## 참고 자료
+
+- [작업 이슈 #448](https://github.com/OSSCA-chromium/contributions/issues/448)
+- [Gerrit CL 8409931](https://crrev.com/c/8409931)
+- [Chromium Issue 562849567](https://issues.chromium.org/issues/562849567)
+- [관련 WPT 결과](https://wpt.fyi/results/css/css-text/hyphens/hyphens-vertical-003.html)
+1c:Ta4d,
+Blink의 `text-transform: capitalize` 처리에서 supplementary character 뒤의
+단어 경계를 올바르게 판단하도록 수정했습니다.
+
+## 문제 설명
+
+capitalize 처리에서는 `previous_character`로 이전 문자의 문맥을 전달하여
+단어 경계를 판단합니다. 기존에는 UTF-16 코드 유닛 하나만 저장할 수 있어,
+두 코드 유닛으로 표현되는 supplementary code point를 온전히 보존하지 못했습니다.
+
+이로 인해 `::first-letter`가 적용된 텍스트의 대문자 변환이 잘못되어
+`css/css-pseudo/first-letter-capitalize-supplementary-char.html` WPT가 실패했습니다.
+
+## 해결 내용
+
+- `previous_character`를 `UChar32`로 변경하고, 이전 문자를 코드 포인트 단위로
+  전달하도록 관련 레이아웃 및 텍스트 처리 코드를 수정했습니다.
+- 보존된 코드 포인트를 단어 경계 판단에 사용하도록 capitalize 처리를 보완했습니다.
+- 기본 활성화된 `CapitalizeAfterSupplementaryCharacterFix` 런타임 플래그로
+  변경 동작을 제어하도록 했습니다.
+- 회귀 테스트를 추가하고 해당 WPT의 실패 기대값을 제거했습니다.
+
+## 테스트 방법
+
+CL에 기록한 검증 대상은 다음과 같습니다.
+
+```bash
+wtf_unittests --gtest_filter=CaseMapTest.ToTitleWithPreviousCharacter
+blink_platform_unittests --gtest_filter="CapitalizeTest*"
+blink_unittests --gtest_filter="*CapitalizationAfterSupplementaryCharacter"
+```
+
+관련 WPT는 `external/wpt/css/css-pseudo/first-letter-capitalize-supplementary-char.html`입니다.
+Gerrit의 CQ dry run 통과 후, 2026년 9월 16일 Chromium main에 병합되었습니다.
+
+## 배운 점
+
+- UTF-16 코드 유닛과 유니코드 코드 포인트를 구분해야 하며, 이전 문자 문맥을
+  전달할 때도 supplementary character를 온전히 보존해야 합니다.
+- 텍스트 조각의 대문자 변환은 앞선 문자의 단어 경계 문맥에 영향을 받으므로,
+  문자열 변환과 레이아웃 양쪽에서 회귀 테스트가 필요합니다.
+- 변경 동작을 런타임 플래그로 제어하고 기존 코드를 보존하면, 예상하지 못한
+  문제가 발생했을 때 플래그를 비활성화하여 기존 동작으로 빠르게 되돌릴 수 있습니다.
+
+## 참고 자료
+
+- [작업 이슈 #363](https://github.com/OSSCA-chromium/contributions/issues/363)
+- [Gerrit CL 8311028](https://crrev.com/c/8311028)
+- [Chromium Issue 501115609](https://issues.chromium.org/issues/501115609)
+- [관련 WPT 결과](https://wpt.fyi/results/css/css-pseudo/first-letter-capitalize-supplementary-char.html)
+1d:Te8e,
+Linux와 ChromeOS에서 존재하지 않는 파일을 심볼릭 링크 경로로 감시할 때,
+링크의 대상 디렉터리만 생성하면 `FilePathWatcher` 이벤트가 발생하지 않는 동작을
+테스트로 명시했습니다.
+
+## 문제 설명
+
+`FilePathWatcherTest.LinkedDirectoryPart2`는 다음 순서로 심볼릭 링크가 포함된
+경로의 감시 동작을 검증합니다.
+
+1. 아직 존재하지 않는 `dir`을 가리키는 심볼릭 링크 `dir.lnk`를 만듭니다.
+2. 존재하지 않는 `dir.lnk/file`을 감시합니다.
+3. 링크의 대상 디렉터리인 `dir`을 만듭니다.
+4. 이후 `dir/file`의 생성, 수정, 삭제 이벤트를 확인합니다.
+
+기존 테스트에는 3번에서 이벤트가 발생하지 않아야 한다는 TODO만 있었고,
+실제 검증은 없었습니다.
+
+Linux와 ChromeOS의 inotify 구현은 감시 경로의 중간 디렉터리가 생성되면 watch
+목록을 갱신하지만, 사용자 콜백은 최종 감시 대상이 존재할 때만 호출합니다.
+
+```cpp
+if (target_changed || (change_on_target_path && deleted) ||
+    (change_on_target_path && created && PathExists(target_))) {
+  // ...
+  callback_.Run(...);
+}
+```
+
+이 시점에는 `target_`인 `dir.lnk/file`이 아직 존재하지 않으므로
+`PathExists(target_)`가 거짓이며 이벤트가 보고되지 않습니다.
+
+## 해결 내용
+
+TODO 주석을 `SpinAndExpectNoEvents()` 호출로 교체하여 대상 디렉터리 생성 뒤
+콜백 이벤트가 발생하지 않는 동작을 명시적으로 검증했습니다.
+
+```diff
+ ASSERT_TRUE(CreateDirectory(dir));
+-// TODO(crbug.com/40263777): Expect that no events are fired.
++delegate.SpinAndExpectNoEvents();
+```
+
+`SpinAndExpectNoEvents()`는 비동기 이벤트가 도착할 시간을 주기 위해 이벤트 루프를
+잠시 실행한 뒤, delegate가 받은 이벤트 목록이 비어 있는지 확인합니다.
+
+이어지는 파일 생성, 수정, 삭제 검증은 그대로 유지되어 대상 디렉터리를 만든 뒤
+watch 목록이 정상적으로 재구성되고 실제 대상 파일의 변경은 계속 보고되는 것도
+확인합니다.
+
+## 테스트 방법
+
+Ubuntu 22.04에서 다음 단위 테스트를 실행해 통과하는 것을 확인했습니다.
+
+```bash
+base_unittests --gtest_filter=FilePathWatcherTest.LinkedDirectoryPart2
+```
+
+Gerrit LUCI dry run과 제출 전 전체 CQ도 통과했으며, CL은 Chromium main에
+병합되었습니다.
+
+## 배운 점
+
+- inotify watch 목록의 갱신과 사용자에게 전달되는 변경 이벤트는 별개의 동작이며,
+  중간 경로가 생성되어 watch가 재구성되더라도 최종 감시 대상이 없으면 콜백이
+  발생하지 않을 수 있음을 배웠습니다.
+- 이벤트가 없어야 하는 비동기 동작은 즉시 목록을 검사하는 대신 이벤트가 처리될
+  시간을 준 뒤 수신 목록이 비어 있는지 검증해야 안정적으로 테스트할 수 있음을
+  배웠습니다.
+- 기존 TODO를 제거할 때는 단순히 현재 구현을 확인하는 데 그치지 않고, 이후 동작
+  변경을 감지할 수 있는 회귀 테스트로 기대 동작을 남겨야 함을 배웠습니다.
+
+## 참고 자료
+
+- [작업 이슈 #315](https://github.com/OSSCA-chromium/contributions/issues/315)
+- [Gerrit CL 8254421](https://crrev.com/c/8254421)
+- [FilePathWatcher 단위 테스트](https://source.chromium.org/chromium/chromium/src/+/main:base/files/file_path_watcher_unittest.cc)
+- [Linux/ChromeOS inotify 구현](https://source.chromium.org/chromium/chromium/src/+/main:base/files/file_path_watcher_inotify.cc)
+- [Chromium Issue 40263777](https://crbug.com/40263777)
+- [Chromium Issue 321980307](https://crbug.com/321980307)
+1e:Tc0f,
+Windows에서 재귀적으로 감시 중인 디렉터리를 touch해도
+`FilePathWatcher` 이벤트가 전달되지 않는 동작을 테스트로 검증했습니다.
+
+## 문제 설명
+
+`FilePathWatcherTest.RecursiveWatch`는 Windows에서 디렉터리를 touch하는 코드가
+실행되지 않아, Windows의 `FilePathWatcher` 동작을 검증하지 못하고 있었습니다.
+
+Windows의 `FilePathWatcher`는 디렉터리에 대한 `FILE_ACTION_MODIFIED` 알림을
+필터링하므로, 감시 중인 디렉터리를 touch해도 콜백 이벤트가 발생하지 않아야
+합니다.
+
+## 해결 내용
+
+Windows에서도 감시 중인 디렉터리에 `TouchFile()`을 호출하도록 테스트를
+변경했습니다.
+
+Windows에서는 기대 이벤트를 추가하지 않은 상태로 이벤트 루프를 진행하여,
+새로운 콜백 이벤트가 발생하지 않는 것을 검증했습니다.
+
+```diff
+ // Mac and Win don't generate events for Touch.
+-// TODO(crbug.com/40263777): Add explicit expectations for Win.
+ // Android TouchFile returns false.
+-#if !(BUILDFLAG(IS_WIN) || BUILDFLAG(IS_ANDROID))
++#if !BUILDFLAG(IS_ANDROID)
+   // Touch "$dir".
+   Time access_time;
+   ASSERT_TRUE(Time::FromString("Wed, 16 Nov 1994, 00:00:00", &access_time));
+   ASSERT_TRUE(TouchFile(dir, access_time, access_time));
+-#if !BUILDFLAG(IS_APPLE)
++#if !(BUILDFLAG(IS_APPLE) || BUILDFLAG(IS_WIN))
+   // TODO(crbug.com/40263766): Investigate why we're getting two events
+   // here from inotify.
+   event_expecter.AddExpectedEventForPath(dir);
+   event_expecter.AddExpectedEventForPath(dir);
+-#endif  // !BUILDFLAG(IS_APPLE)
++#endif  // !(BUILDFLAG(IS_APPLE) || BUILDFLAG(IS_WIN))
+   delegate.RunUntilEventsMatch(event_expecter);
+   // TODO(crbug.com/40263777): Add a test touching `subdir`.
+-#endif  // !(BUILDFLAG(IS_WIN) || BUILDFLAG(IS_ANDROID))
++#endif  // !BUILDFLAG(IS_ANDROID)
+```
+
+## 테스트 방법
+
+Windows에서 다음 테스트를 대상으로 검증했습니다.
+
+```bash
+base_unittests --gtest_filter=FilePathWatcherTest.RecursiveWatch
+```
+
+Gerrit LUCI dry-run과 제출 전 전체 CQ가 통과했으며, CL은 Chromium main에
+병합되었습니다.
+
+## 배운 점
+
+- Windows에서 파일 변경 알림이 발생하더라도 `FilePathWatcher`가 디렉터리에 대한
+  `FILE_ACTION_MODIFIED` 알림을 필터링하여 이벤트가 전달되지 않는다는 점을
+  배웠습니다.
+- 비동기 이벤트가 발생하지 않아야 하는 동작은 이벤트 루프를 잠시 실행해 알림이
+  처리될 시간을 준 뒤, 기대 이벤트 목록과 실제 수신 이벤트 목록이 일치하는지
+  확인하여 테스트할 수 있음을 알게 되었습니다.
+
+## 참고 자료
+
+- [작업 이슈 #300](https://github.com/OSSCA-chromium/contributions/issues/300)
+- [Gerrit CL 8228946](https://crrev.com/c/8228946)
+- [Windows FilePathWatcher 필터링 로직](https://source.chromium.org/chromium/chromium/src/+/main:base/files/file_path_watcher_win.cc)
+- [Apple 관련 선행 CL 8042283](https://crrev.com/c/8042283)
+- [Chromium Issue 40263777](https://crbug.com/40263777)
+1f:T5a6,
+`ui/gfx/native_widget_types.h`를 가리키는 깨진 링크와 타입 네임스페이스
+오타를 수정했습니다.
+
+## 문제 설명
+
+`ui/gfx/native_widget_types.h`는
+[CL 6938086](https://crrev.com/c/6938086)에서
+`ui/gfx/native_ui_types.h`로 변경되었지만,
+`docs/ui/learn/glossary.md`와 `docs/mac/mixing_cpp_and_objc.md`에는
+이전 경로가 남아 있었습니다.
+
+또한 `docs/mac/mixing_cpp_and_objc.md`에는 `ui::NativeView`로 잘못
+표기되어 있었습니다.
+
+## 해결 내용
+
+- 두 문서에서 헤더 경로를 `ui/gfx/native_ui_types.h`로 변경했습니다.
+- `ui::NativeView`를 실제 네임스페이스인 `gfx::NativeView`로 수정했습니다.
+
+`docs/ui/learn/glossary.md`
+
+```diff
+-[`AcceleratedWidget`](/ui/gfx/native_widget_types.h) on Windows.
++[`AcceleratedWidget`](/ui/gfx/native_ui_types.h) on Windows.
+```
+
+`docs/mac/mixing_cpp_and_objc.md`
+
+```diff
+-`ui/gfx/native_widget_types.h`'s `ui::NativeView`,
++`ui/gfx/native_ui_types.h`'s `gfx::NativeView`,
+```
+
+## 테스트 방법
+
+Gitiles에서 변경된 링크가 정상적으로 열리는 것을 확인했습니다.
+
+## 배운 점
+
+- 링크뿐 아니라 주변 내용도 함께 확인해야 한다는 점을 배웠습니다.
+
+## 참고 자료
+
+- [헤더 이름 변경 CL 6938086](https://crrev.com/c/6938086)
+- [Chromium Bug 538651940](https://crbug.com/538651940)
+- [작업 이슈 #202](https://github.com/OSSCA-chromium/contributions/issues/202)
+20:T65e,
+지원이 종료된 LaCrOS를 UI 용어집에서 제거했습니다.
+
+## 문제 설명
+
+LaCrOS는 [CL 5862339](https://crrev.com/c/5862339)에서 지원 종료 상태가
+문서에 반영되었고, 이후 [CL 5892904](https://crrev.com/c/5892904)에서
+`docs/lacros.md`를 포함한 관련 문서들이 삭제되었습니다.
+
+그러나 `docs/ui/learn/glossary.md`에는 LaCrOS 설명과 삭제된
+`/docs/lacros.md` 링크가 남아 있는 상태였습니다.
+
+## 해결 내용
+
+처음에는 링크를 제거하고 항목을 deprecated로 표시하도록 작업했지만,
+리뷰어 요청에 따라 UI 용어집에서 LaCrOS 항목 전체를 제거했습니다.
+
+`docs/ui/learn/glossary.md`
+
+```diff
+-### LaCrOS
+-
+-An abbreviation for "Linux And Chrome OS". An architecture project to decouple
+-the Chrome browser on Chrome OS from the operating system stack; historically
+-these were tightly coupled and updated simultaneously.
+-[More general background on LaCrOS](/docs/lacros.md)
+-
+```
+
+## 테스트 방법
+
+Gitiles에서 LaCrOS 항목이 제거된 것을 확인했습니다.
+
+## 배운 점
+
+- 관련 내용의 변경 이력과 맥락을 충분히 확인해야 한다는 점을 배웠습니다.
+- 대체할 유효한 내용이 없다면 오래된 항목을 제거하는 방법도 고려해야 한다는
+  점을 배웠습니다.
+
+## 참고 자료
+
+- [LaCrOS 지원 종료 문서화 CL 5862339](https://crrev.com/c/5862339)
+- [LaCrOS 문서 삭제 CL 5892904](https://crrev.com/c/5892904)
+- [Chromium Bug 538651940](https://crbug.com/538651940)
+- [작업 이슈 #202](https://github.com/OSSCA-chromium/contributions/issues/202)
+21:Tbd0,
+존재하지 않는 파일을 감시할 때, 부모 디렉터리만 생성하면
+`FilePathWatcher` 이벤트가 발생하지 않는 동작을 테스트로 검증했습니다.
+
+## 문제 설명
+
+`base/files/file_path_watcher_unittest.cc`의
+`FilePathWatcherTest.NonExistentDirectory`는 부모 디렉터리와 파일이 모두 없는
+상태에서 파일 감시를 시작한 뒤, 디렉터리와 파일을 순서대로 생성하는 테스트입니다.
+
+감시 대상은 파일이므로 부모 디렉터리만 생성하는 단계에서는 이벤트가 발생하지
+않아야 합니다. 기존 테스트에는 이 동작을 확인하라는 TODO만 남아 있어,
+부모 디렉터리 생성 직후 이벤트가 없는지 명시적으로 검증하지 않았습니다.
+
+## 해결 내용
+
+부모 디렉터리를 생성한 직후의 TODO를 `delegate.SpinAndExpectNoEvents()`
+호출로 교체했습니다.
+
+```diff
+ ASSERT_TRUE(CreateDirectory(dir));
+-// TODO(crbug.com/40263777): Expect that no events are fired.
++delegate.SpinAndExpectNoEvents();
+```
+
+이 helper는 이벤트 루프를 잠시 실행하여 비동기 알림이 처리될 시간을 준 뒤,
+수신한 이벤트 목록이 비어 있는지 확인합니다. 이어지는 파일 생성, 수정, 삭제
+이벤트 검증은 유지했습니다.
+
+리뷰에서는 TODO가 추가될 당시에는 `SpinAndExpectNoEvents()`가 없었다는
+배경을 확인했습니다. 또한 리뷰 의견에 따라 커밋 메시지에 기존 TODO를 해결하고
+이 helper로 기대 동작을 검증한다는 설명을 추가했습니다.
+
+## 테스트 방법
+
+CL의 커밋 메시지에 기록된 검증 대상은 다음과 같습니다.
+
+```bash
+base_unittests --gtest_filter=FilePathWatcherTest.NonExistentDirectory
+```
+
+Gerrit에서 CQ dry run 통과와 최종 제출을 확인했으며,
+2026년 6월 9일(한국 시간) Chromium main에 병합되었습니다.
+
+## 배운 점
+
+- 파일 감시 알림은 비동기로 전달되므로, 디렉터리 생성 직후에는 잘못된 이벤트도
+  아직 도착하지 않았을 수 있습니다. 이벤트 루프를 잠시 실행한 뒤 수신 목록이
+  비어 있는지 확인해야 이를 놓치지 않을 수 있습니다.
+- 오래된 TODO를 해결할 때는 이후에 추가된 테스트 도구도 살펴볼 필요가 있습니다.
+  당시에는 없던 helper로 간결하게 검증을 보완할 수 있었습니다.
+- 커밋 메시지에는 추가한 코드뿐 아니라, 어떤 TODO와 기대 동작을 검증하는지도
+  설명하면 리뷰어가 변경 목적을 이해하는 데 도움이 됩니다.
+
+## 참고 자료
+
+- [작업 이슈 #298](https://github.com/OSSCA-chromium/contributions/issues/298)
+- [Gerrit CL 7906916](https://crrev.com/c/7906916)
+- [병합된 테스트 코드](https://chromium.googlesource.com/chromium/src/+/607cac6f1c4dabaed5a07c87d35a546d2cedbbe4/base/files/file_path_watcher_unittest.cc)
+- [Chromium Issue 40263777](https://crbug.com/40263777)
+- [Chromium Issue 321980307](https://crbug.com/321980307)
+22:Tc7c,
+Apple에서 디렉터리를 비재귀적으로 감시할 때 내부 파일의 내용을 수정해도 이벤트가 발생하지 않는 동작을 검증하도록 테스트를 보완했습니다.
+
+## 문제 설명
+
+`FilePathWatcherTest.WatchDirectory`는 Apple에서 파일 수정 단계를 건너뛰고,
+이벤트가 발생하지 않는지 확인하라는 TODO만 남겨 두었습니다.
+
+이 테스트에서 사용하는 Apple의 비재귀 감시(`kNonRecursive`)는
+`kqueue`로 디렉터리 경로를 감시하며, 내부 파일은 개별 감시하지 않습니다.
+파일 생성·삭제는 디렉터리의 항목 목록을 바꾸므로 감지됩니다.
+반면 기존 파일의 내용만 수정하면 항목 목록은 그대로이므로,
+이 감시 방식에서는 이벤트가 보고되지 않습니다.
+
+## 해결 내용
+
+`WriteFile()`을 조건문 밖으로 옮겨 Apple에서도 파일 수정 단계를 실행하도록
+했습니다. Apple에서는 `ExpectedEventsSinceLastWait::kNone`을 전달해 이벤트
+루프를 잠시 실행한 뒤, 수신 목록이 기존 기대 목록과 일치하는지 확인합니다.
+
+전체 코드 diff는 다음과 같습니다.
+
+```diff
+--- a/base/files/file_path_watcher_unittest.cc
++++ b/base/files/file_path_watcher_unittest.cc
+@@ -914,13 +914,15 @@
+   }
+   delegate.RunUntilEventsMatch(event_expecter);
+
+-#if !BUILDFLAG(IS_APPLE)
+   ASSERT_TRUE(WriteFile(file1, "content v2"));
+-  // Mac implementation does not detect files modified in a directory.
+-  // TODO(crbug.com/40263777): Expect that no events are fired on Mac.
++#if BUILDFLAG(IS_APPLE)
++  // Apple implementation does not detect files modified in a directory.
+   // TODO(crbug.com/40105284): Consider using FSEvents to support
+   // watching a directory and its immediate children, as Type::kNonRecursive
+   // does on other platforms.
++  delegate.RunUntilEventsMatch(event_expecter.GetMatcher(),
++                               ExpectedEventsSinceLastWait::kNone);
++#else
+   VLOG(1) << "Waiting for file1 modification";
+   event_expecter.AddExpectedEventForPath(dir);
+ #if BUILDFLAG(IS_WIN)
+@@ -929,7 +931,7 @@
+   event_expecter.AddExpectedEventForPath(dir);
+ #endif
+   delegate.RunUntilEventsMatch(event_expecter);
+-#endif  // !BUILDFLAG(IS_APPLE)
++#endif  // BUILDFLAG(IS_APPLE)
+
+   ASSERT_TRUE(DeleteFile(file1));
+   VLOG(1) << "Waiting for file1 deletion";
+```
+
+## 테스트 방법
+
+CL에 기록한 테스트는 다음과 같습니다.
+
+```bash
+base_unittests --gtest_filter=FilePathWatcherTest.WatchDirectory
+```
+
+CQ를 거쳐 2026년 6월 9일 Chromium main에 병합되었습니다.
+
+## 배운 점
+
+- 플랫폼에서 알림을 지원하지 않는 동작도, 실행을 건너뛰지 않고 알림이 없음을
+  검증할 수 있습니다.
+- 이벤트를 누적하는 테스트에서는 이전 이벤트를 포함한 기대 목록과 비교해야
+  새 이벤트가 추가되지 않았는지 확인할 수 있습니다.
+
+## 참고 자료
+
+- [작업 이슈 #298](https://github.com/OSSCA-chromium/contributions/issues/298)
+- [Gerrit CL 7895660](https://crrev.com/c/7895660)
+- [Chromium Issue 40263777](https://crbug.com/40263777)
+- [Chromium Issue 321980307](https://crbug.com/321980307)
+10:["$","div",null,{"className":"mx-auto max-w-7xl p-4","children":[["$","header",null,{"className":"flex flex-col sm:flex-row items-center gap-4 mb-8","children":[["$","a",null,{"href":"https://github.com/parkhojeong","target":"_blank","rel":"noopener noreferrer","children":["$","$L3",null,{"src":"https://github.com/parkhojeong.png?size=192","alt":"parkhojeong 프로필 이미지","width":96,"height":96,"className":"rounded-full"}]}],["$","div",null,{"className":"text-center sm:text-left","children":[["$","h1",null,{"className":"font-display text-3xl font-semibold tracking-tight text-on-surface","children":"parkhojeong"}],["$","a",null,{"href":"https://github.com/parkhojeong","target":"_blank","rel":"noopener noreferrer","className":"text-link hover:underline","children":["github.com/","parkhojeong"]}]]}]]}],["$","$L1a",null,{"contributions":[{"slug":"8409931","title":"[Blink] Fix hyphen orientation in vertical text","date":"$D2026-09-16T00:00:00.000Z","author":"parkhojeong","contributionUrl":"https://crrev.com/c/8409931","labels":["blink","css"],"status":"merged","excerpt":"세로쓰기에서 사용자 지정 하이픈 문자열 `+=`가 옆으로 회전하지 않고\n똑바로 표시되는 문제를 수정했습니다.","content":"$1b"},{"slug":"8311028","title":"[Blink] Fix capitalization after supplementary characters","date":"$D2026-08-29T00:00:00.000Z","author":"parkhojeong","contributionUrl":"https://crrev.com/c/8311028","labels":["blink","css"],"status":"merged","excerpt":"Blink의 `text-transform: capitalize` 처리에서 supplementary character 뒤의\n단어 경계를 올바르게 판단하도록 수정했습니다.","content":"$1c"},{"slug":"8254421","title":"base: Test no event when symlink target dir is created on Linux/ChromeOS","date":"$D2026-08-18T00:00:00.000Z","author":"parkhojeong","contributionUrl":"https://crrev.com/c/8254421","labels":["base","testing"],"status":"merged","excerpt":"Linux와 ChromeOS에서 존재하지 않는 파일을 심볼릭 링크 경로로 감시할 때,\n링크의 대상 디렉터리만 생성하면 `FilePathWatcher` 이벤트가 발생하지 않는 동작을\n테스트로 명시했습니다.","content":"$1d"},{"slug":"8228946","title":"base: Test no event for directory touch on Windows","date":"$D2026-08-15T00:00:00.000Z","author":"parkhojeong","contributionUrl":"https://crrev.com/c/8228946","labels":["base","testing"],"status":"merged","excerpt":"Windows에서 재귀적으로 감시 중인 디렉터리를 touch해도\n`FilePathWatcher` 이벤트가 전달되지 않는 동작을 테스트로 검증했습니다.","content":"$1e"},{"slug":"8147039","title":"Fix broken link to ui/gfx/native_widget_types.h","date":"$D2026-07-26T00:00:00.000Z","author":"parkhojeong","contributionUrl":"https://crrev.com/c/8147039","labels":["docs","fix"],"status":"merged","excerpt":"`ui/gfx/native_widget_types.h`를 가리키는 깨진 링크와 타입 네임스페이스\n오타를 수정했습니다.","content":"$1f"},{"slug":"8147339","title":"Remove LaCrOS entry from the UI glossary","date":"$D2026-07-26T00:00:00.000Z","author":"parkhojeong","contributionUrl":"https://crrev.com/c/8147339","labels":["docs","fix"],"status":"merged","excerpt":"지원이 종료된 LaCrOS를 UI 용어집에서 제거했습니다.","content":"$20"},{"slug":"7906916","title":"base: Test no event when creating parent dir","date":"$D2026-06-06T00:00:00.000Z","author":"parkhojeong","contributionUrl":"https://crrev.com/c/7906916","labels":["base","testing"],"status":"merged","excerpt":"존재하지 않는 파일을 감시할 때, 부모 디렉터리만 생성하면\n`FilePathWatcher` 이벤트가 발생하지 않는 동작을 테스트로 검증했습니다.","content":"$21"},{"slug":"7895660","title":"base: Test file modification in WatchDirectory on Apple","date":"$D2026-06-03T00:00:00.000Z","author":"parkhojeong","contributionUrl":"https://crrev.com/c/7895660","labels":["base","testing"],"status":"merged","excerpt":"Apple에서 디렉터리를 비재귀적으로 감시할 때 내부 파일의 내용을 수정해도 이벤트가 발생하지 않는 동작을 검증하도록 테스트를 보완했습니다.","content":"$22"}]}]]}]
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:null
+23:I[80622,[],"IconMark"]
+14:{"metadata":[["$","title","0",{"children":"parkhojeong | OSSCA Chromium"}],["$","meta","1",{"name":"description","content":"parkhojeong님의 컨트리뷰션 목록입니다."}],["$","meta","2",{"name":"google-site-verification","content":"6lATKwyH4W3FqgJMSzFuiaY0zgSyYNmgpPqSTgB2PmE"}],["$","link","3",{"rel":"icon","href":"/contributions/icon.png?7799f1a0e0aceb83","type":"image/png","sizes":"256x256"}],["$","$L23","4",{}]],"error":null,"digest":"$undefined"}
+19:"$14:metadata"
